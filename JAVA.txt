@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 289A-6C59
+
+ Directory of C:\Users\pc\Desktop\myproject
+
+05/13/2019  02:21 AM    <DIR>          .
+05/13/2019  02:21 AM    <DIR>          ..
+05/13/2019  02:21 AM                 0 JAVA.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  68,424,572,928 bytes free
